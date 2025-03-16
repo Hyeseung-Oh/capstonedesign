@@ -1,0 +1,367 @@
+.buildingbtn {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    background: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    pointer-events: auto;
+  }
+  
+.buildingbtn img {
+    width: 60% !important;
+    height: 85% !important;
+}
+
+.buildinginfo {
+    position: absolute;
+    top: -100%;
+    z-index: 3;
+    left: 0;
+    max-width: 800%;
+    width: fit-content;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    color: white;
+    padding: 10px; 
+    box-sizing: border-box;
+    white-space: nowrap;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buildinginfo span {
+    display: block;
+  }
+
+  .D16 {
+    position: absolute;
+    background-color: transparent;
+    border: 1px solid transparent;
+    background: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    pointer-events: auto;
+  
+    top: 47%;
+    left: 23.5%;
+    
+    width: 2% !important;
+    height: 4% !important;
+  }
+
+.D1 {
+    top: 13%;
+    left: 6%;
+}
+
+.D3 {
+    top: 24.5%;
+    left: 9.5%;
+  }
+
+  .D4 {
+    top: 26%;
+    left: 11%;
+  }
+
+  .D5 {
+    top: 24%;
+    left: 15.5%;
+  }
+
+  .D6 {
+    top: 24%;
+    left: 19.5%;
+  }
+
+  .D7 {
+    top: 27%;
+    left: 21%;
+  }
+
+  .D8 {
+    top: 30.5%;
+    left: 23%;
+  }
+
+  .D9 {
+    top: 33.5%;
+    left: 24%;
+  }
+
+  .D10 {
+    top: 28%;
+    left: 14.5%;
+  }
+
+  .D11 {
+    top: 35%;
+    left: 17%;
+  }
+  
+  .D12 {
+    top: 46.5%;
+    left: 8%;
+  }
+
+  .D15 {
+    top: 45%;
+    left: 16%;
+  }
+
+  .D17 {
+    top: 45.5%;
+    left: 32.5%;
+  }
+
+  .D18 {
+    top: 53.5%;
+    left: 26%;
+  }
+
+  .D19 {
+    top: 58.5%;
+    left: 22%;
+  }
+
+
+  .A1 {
+    top: 37%;
+    left: 44%;
+  }
+
+  .A3 {
+    top: 29.5%;
+    left: 36.5%;
+  }
+
+  .A7 {
+    top: 22.5%;
+    left: 40%;
+  }
+
+  .A4 {
+    top: 30.5%;
+    left: 46%;
+  }
+
+  .A9 {
+    top: 24%;
+    left: 27%;
+  }
+
+  .A10 {
+    top: 19%;
+    left: 23%;
+  }
+
+  .A11 {
+    top: 17%;
+    left: 20.5%;
+  }
+
+  .A13 {
+    top: 12%;
+    left: 29%;
+  }
+
+  .C13 {
+    top: 11.5%;
+    left: 41%;
+  }
+
+  .C12 {
+    top: 15%;
+    left: 46.5%;
+  }
+
+  .C11 {
+    top: 13.5%;
+    left: 53.5%;
+  }
+
+  .C10 {
+    top: 16.5%;
+    left: 59%;
+  }
+
+  .C9 {
+    top: 18%;
+    left: 53.5%;
+  }
+
+  .C8 {
+    top: 22%;
+    left: 58%;
+  }
+
+  .C7 {
+    top: 23%;
+    left: 63%;
+  }
+
+  .C6 {
+    top: 13.5%;
+    left: 78%;
+  }
+
+  .C5 {
+    top: 13.5%;
+    left: 85.5%;
+  }
+
+  .C3 {
+    top: 18%;
+    left: 77.5%;
+  }
+
+  .C4 {
+    top: 19%;
+    left: 84%;
+  }
+
+  .C2 {
+    top: 26%;
+    left: 73%;
+  }
+
+  .C1 {
+    top: 29.5%;
+    left: 70%;
+  }
+
+  .B1 {
+    top: 45.5%;
+    left: 55%;
+  }
+
+  .B2 {
+    top: 42%;
+    left: 56.5%;
+  }
+
+  .B3 {
+    top: 54.5%;
+    left: 60.5%;
+  }
+
+  .B4 {
+    top: 58%;
+    left: 68%;
+  }
+
+  .B5 {
+    top: 54%;
+    left: 71.5%;
+  }
+
+  .B6 {
+    top: 52.5%;
+    left: 75.5%;
+  }
+
+  .B7 {
+    top: 43%;
+    left: 71%;
+  }
+
+  .B8 {
+    top: 36.5%;
+    left: 71%;
+  }
+
+  .E1 {
+    top: 56.5%;
+    left: 33.5%;
+  }
+
+  .E3 {
+    top: 62.5%;
+    left: 38%;
+  }
+
+  .E4 {
+    top: 60%;
+    left: 25%;
+  }
+
+  .E5 {
+    top: 63%;
+    left: 21.5%;
+  }
+
+  .E6 {
+    top: 65.5%;
+    left: 25.5%;
+  }
+
+  .E7 {
+    top: 73%;
+    left: 21.5%;
+  }
+
+  .E8 {
+    top: 77%;
+    left: 26%;
+  }
+
+  .E9 {
+    top: 80%;
+    left: 32%;
+  }
+
+  .E10 {
+    top: 59%;
+    left: 44.5%;
+  }
+
+  .E11 {
+    bottom: 18%;
+    right: 29%;
+  }
+
+  .E12 {
+    bottom: 11%;
+    right: 30%;
+  }
+
+  .E13 {
+    bottom: 13%;
+    right: 27%;
+  }
+
+
+  .AT1 {
+    top: 55%;
+    left: 36.5%;
+  }
+
+  .AT2 {
+    top: 50%;
+    left: 30%;
+  }
+
+  .AT3 {
+    top: 43%;
+    left: 76%;
+  }
+
+  .AT4 {
+    top: 30%;
+    left: 12%;
+  }
+  
+  .AT5 {
+    top: 42%;
+    left: 9.5%;
+  }
+

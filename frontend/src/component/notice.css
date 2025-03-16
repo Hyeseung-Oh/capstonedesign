@@ -1,0 +1,41 @@
+.news-ticker {
+  height: 100%;
+  line-height: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.notice-list {
+  display: flex;
+  flex-direction: column;
+  animation: ticker-animation linear infinite;
+  margin-top: -25px;
+}
+
+@keyframes ticker-animation {
+  0% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(-100%);
+  }
+}
+
+.notice-item {
+  font-size: 13px;
+  line-height: 25px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.notice-item a {
+  color: white;
+  text-decoration: none;
+  margin-bottom: 10px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
