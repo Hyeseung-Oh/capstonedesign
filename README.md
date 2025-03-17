@@ -1,7 +1,7 @@
 # ✈️ 2022-2, 2023-1학기 캡스톤 프로젝트
-[![FE: OH](https://img.shields.io/badge/Frontend-OH-blue)](https://github.com/Hyeseung-Oh) 
-![BE: KO](https://img.shields.io/badge/Backend-KO-green)
-![BE: KIM](https://img.shields.io/badge/Backend-KIM-yellow)
+[![FE: OH](https://img.shields.io/badge/FE-OH-blue)](https://github.com/Hyeseung-Oh) 
+![BE: KO](https://img.shields.io/badge/BE-KO-green)
+![BE: KIM](https://img.shields.io/badge/BE-KIM-yellow)
 > **학교 안내 웹페이지**  
 > 각 건물별 구조도를 제공하고, 실시간 구내식당 혼잡도 정보를 제공합니다.
 
